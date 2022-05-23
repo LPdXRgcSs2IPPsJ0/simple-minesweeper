@@ -101,7 +101,7 @@ session_start();
         <h1>How to play:</h1>
         <p>The aim of the game is to click every tile that does not contain a mine. If you click a tile containing a mine, you lose.</p>
         <p>If you click on a tile that does not contain a mine, it will be marked with the number of mines that are in adjacent tiles. Your first click will never be a mine.</p>
-        <p>If you right-click on a tile, you can mark it with a flag. This can be used to remember where mines are. Right-clicking the tile again will remove the mine.</p>
+        <p>If you right-click on a tile, you can mark it with a flag. This can be used to remember where mines are. Right-clicking the tile again will remove the flag.</p>
         <p>For custom boards, the maximum size is 99x99 tiles. The maximum number of mines is calculated using this formula: (width-1) * (height-1)</p>
     </div>
 </div>
